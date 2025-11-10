@@ -1,4 +1,6 @@
 # EXP-5
+# Name : POOJA SRI P
+# Reg NO:212224230197
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
 AIM
@@ -27,11 +29,6 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:
-
-REGULATION CHARACTERISTICS:
-
-V-I & REGULATION CHARACTERISTICS:
 
 PRECAUTIONS:
 
@@ -39,5 +36,33 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
+![WhatsApp Image 2025-11-10 at 22 02 18_b44239bf](https://github.com/user-attachments/assets/8a4ca7e0-99b1-457b-8cbc-00da6ebcad0f)
+
+![WhatsApp Image 2025-11-10 at 22 02 18_1be85518](https://github.com/user-attachments/assets/dbe36777-3058-4e52-b51c-a01cf10ede66)
+
+![WhatsApp Image 2025-11-10 at 22 02 18_d489d05b](https://github.com/user-attachments/assets/24f04fd9-d055-41fd-80d8-7ebf1b4a14f4)
+
+![WhatsApp Image 2025-11-10 at 22 02 19_1c9170fe](https://github.com/user-attachments/assets/f5d48269-9cfe-4392-b6b8-75183b489557)
+
+![WhatsApp Image 2025-11-10 at 22 02 19_1a536e65](https://github.com/user-attachments/assets/5230fa40-1288-4598-80b7-288ee540d95d)
+
+![WhatsApp Image 2025-11-10 at 22 02 20_d289d9dc](https://github.com/user-attachments/assets/fee8045a-547e-460f-a42f-5bca9ffc344d)
+
+![WhatsApp Image 2025-11-10 at 22 02 21_c46764b7](https://github.com/user-attachments/assets/6fb2434c-8568-4203-a10b-c7bfc343eaec)
+
+![WhatsApp Image 2025-11-10 at 22 02 22_a07cc2f0](https://github.com/user-attachments/assets/70265a4d-bdc7-4b8f-bb85-7620ef721b9a)
+ 
+# Output:
+
+<img width="720" height="288" alt="image" src="https://github.com/user-attachments/assets/bfec9e8b-a8b1-420c-9685-a3cbb95082a5" />
+
+
+
+<img width="689" height="306" alt="image" src="https://github.com/user-attachments/assets/4c725074-557f-41c6-955f-4d49444ecab9" />
+
+
+
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
